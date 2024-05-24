@@ -15,10 +15,10 @@ on the Ethereum blockchain platform to store
 biometric information.]
 
 
-📫 Feel free to reach out to me via email at [dhanyakarkera100@gmail.com] or connect with me on [https://www.linkedin.com/in/dhanyakar
-kera-64950321a].
+📫 Feel free to reach out to me via email at [dhanyakarkera100@gmail.com] or connect with me on [https://www.linkedin.com/in/dhanyakarkera-64950321a].
 
 Looking forward to connecting with fellow developers and exploring new opportunities for collaboration!
+
 
 
 ## 🌐 Socials:
@@ -30,5 +30,6 @@ Looking forward to connecting with fellow developers and exploring new opportuni
 ![](https://github-readme-stats.vercel.app/api?username=dhanyashreekarkera&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhanyashreekarkera&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyashreekarkera&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
