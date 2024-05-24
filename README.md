@@ -1,3 +1,21 @@
+👋 Hi, I'm DHANYASHREE!
+🚀 I'm a software developer with a passion for building innovative solutions using cutting-edge technologies. I hold a degree in Computer Science.
+💻 Skills: I'm proficient in HTML,CSS,JavaScript,SQL and Java.
+🛠️ Projects: Some of the projects I've worked on include:
+- [Food ordering System]: [This project is mainly focus on maintain restaurant
+function in an effective and accurate manner, also
+keeps day by day records.]
+- [Securing Biometric Information Using
+blockchain.]: [We have given importance to biometric information
+storage protection and implemented a smart contract
+on the Ethereum blockchain platform to store
+biometric information.]
+
+
+📫 Feel free to reach out to me via email at [dhanyakarkera100@gmail.com] or connect with me on [https://www.linkedin.com/in/dhanyakar
+kera-64950321a].
+
+Looking forward to connecting with fellow developers and exploring new opportunities for collaboration!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanya__karkera__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanyakar kera-64950321a) 
