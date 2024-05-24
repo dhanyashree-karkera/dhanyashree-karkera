@@ -1,14 +1,6 @@
 # 💫 About Me:
 Hi, I'm DHANYASHREE!<br><br>🚀 I'm a software developer with a passion for building innovative solutions using cutting-edge technologies. I hold a degree in Computer Science.<br><br>💻 Skills: I'm proficient in HTML,CSS,JavaScript,SQL and Java.<br><br>🛠️ Projects: Some of the projects I've worked on include:<br><br>[Food ordering System]: [This project is mainly focus on maintain restaurant function in an effective and accurate manner, also keeps day by day records.]<br>[Securing Biometric Information Using blockchain.]: [We have given importance to biometric information storage protection and implemented a smart contract on the Ethereum blockchain platform to store biometric information.]<br>📫 Feel free to reach out to me via email at [dhanyakarkera100@gmail.com] or connect with me on [https://www.linkedin.com/in/dhanyakarkera-64950321a].<br><br>Looking forward to connecting with fellow developers and exploring new opportunities for collaboration!
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhanyashreekarkera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhanyashreekarkera&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyashreekarkera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dhanyashreekarkera&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanya__karkera__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanyakarkera-64950321a) 
