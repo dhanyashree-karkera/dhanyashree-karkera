@@ -1,6 +1,9 @@
 👋 Hi, I'm DHANYASHREE!
+
 🚀 I'm a software developer with a passion for building innovative solutions using cutting-edge technologies. I hold a degree in Computer Science.
+
 💻 Skills: I'm proficient in HTML,CSS,JavaScript,SQL and Java.
+
 🛠️ Projects: Some of the projects I've worked on include:
 - [Food ordering System]: [This project is mainly focus on maintain restaurant
 function in an effective and accurate manner, also
